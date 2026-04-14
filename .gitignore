@@ -1,0 +1,4 @@
+*.aux
+*.log
+.code_config/
+grader/
